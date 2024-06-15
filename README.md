@@ -2,6 +2,10 @@
 
 ## Books
 
+Download the entire collection: **<https://bit.ly/the-lean-series-pdf>**
+
+Or download individual books:
+
 * [_Lean Analytics_](./books/Lean%20Analytics.pdf) (<https://bit.ly/lean-analytics-pdf>)
 * [_Lean Enterprise_](./books/Lean%20Enterprise.pdf) (<https://bit.ly/lean-enterprise-pdf>)
 * _Lean UX_
