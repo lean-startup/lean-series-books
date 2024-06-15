@@ -1,0 +1,3 @@
+# The PDF file is too large (over 100 MB)
+# So it is split into parts.
+*.pdf
