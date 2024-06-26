@@ -15,3 +15,5 @@ Or download individual books:
     * [_Lean UX (3rd Edition)_](./books/Lean%20UX/Lean%20UX%20(3rd%20Edition).pdf) (<https://bit.ly/lean-ux-3-pdf>)
 * [_Running Lean_](./books/Running%20Lean.pdf) (<https://bit.ly/running-lean-pdf>)
 * [_UX for Lean Startups_](./books/UX%20for%20Lean%20Startups.pdf) (<https://bit.ly/ux-for-lean-startups-pdf>)
+
+![](<./images/The Lean Series books.jpg>)
