@@ -2,13 +2,9 @@
 
 ## Books
 
-Download the entire collection: **<https://bit.ly/the-lean-series-pdf>**
-
-Or download individual books:
-
-* [_Lean Analytics_](./books/PDF/Lean%20Analytics.pdf) (<https://bit.ly/lean-analytics-pdf>)
-* [_Lean Customer Development_](./books/PDF/Lean%20Customer%20Development.pdf) (<https://bit.ly/lean-customer-development-pdf>)
-* [_Lean Enterprise_](./books/PDF/Lean%20Enterprise.pdf) (<https://bit.ly/lean-enterprise-pdf>)
+* _Lean Analytics_ ([PDF](./books/PDF/Lean%20Analytics.pdf))
+* _Lean Customer Development_ ([PDF](./books/PDF/Lean%20Customer%20Development.pdf))
+* _Lean Enterprise_ ([PDF](./books/PDF/Lean%20Enterprise.pdf))
 * _Lean UX_
     * 1st Edition ([PDF](./books/PDF/Lean%20UX/Lean%20UX%20(1st%20Edition).pdf))
     * 2nd Edition ([PDF](./books/PDF/Lean%20UX/Lean%20UX%20(2nd%20Edition)/))
