@@ -3,8 +3,9 @@
 ## Books
 
 * _Leading Lean_ ([EPUB](./books/EPUB/Leading%20Lean.epub), [PDF](./books/PDF/Leading%20Lean.pdf))
+* _Lean AI_ ([EPUB](./books/EPUB/Lean%20AI.epub), [PDF](./books/PDF/Lean%20AI.pdf))
 * _Lean Analytics_ ([EPUB](./books/EPUB/Lean%20Analytics.epub), [PDF](./books/PDF/Lean%20Analytics.pdf))
-* _Lean Branding_ ([PDF](./books/PDF/Lean%20Branding.pdf))
+* _Lean Branding_ ([EPUB](./books/EPUB/Lean%20Branding.epub), [PDF](./books/PDF/Lean%20Branding.pdf))
 * _Lean Customer Development_ ([EPUB](./books/EPUB/Lean%20Customer%20Development.epub), [PDF](./books/PDF/Lean%20Customer%20Development.pdf))
 * _Lean Enterprise_ ([EPUB](./books/EPUB/Lean%20Enterprise.epub), [PDF](./books/PDF/Lean%20Enterprise.pdf))
 * _Lean UX_
